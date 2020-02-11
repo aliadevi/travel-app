@@ -1,77 +1,67 @@
 {"countries":[
     {
         "name":"Paris",
-        "url":"https://affiliate.klook.com/jump/en-US/city/107-paris-things-to-do/?adid=95263&af_wid=13671",
+        "url":"https://www.klook.com/en-US/city/107-paris-things-to-do/",
         "image":"https://photos.mandarinoriental.com/is/image/MandarinOriental/paris-2017-home?$MO_masthead-property-mobile$"
     },
     {
         "name":"London",
-        "url":"https://affiliate.klook.com/jump/en-US/city/106-london-things-to-do/?adid=95262&af_wid=13671",
-        "image":""
+        "url":"https://www.klook.com/en-US/city/106-london-things-to-do/",
+        "image":"https://cdn.londonandpartners.com/assets/73295-640x360-london-skyline-ns.jpg"
     },
     {
         "name":"Brisbane",
-        "url":"https://affiliate.klook.com/jump/en-US/city/70-brisbane-things-to-do/?adid=95264&af_wid=13671",
-        "image":""
+        "url":"https://www.klook.com/en-US/city/70-brisbane-things-to-do/",
+        "image":"https://www.australia.com/content/australia/en/places/brisbane-and-surrounds/hidden-gems/_jcr_content/image.adapt.740.medium.jpg"
     },
     {
         "name":"Dubai",
         "url":"https://www.klook.com/en-US/city/78-dubai-things-to-do/",
-        "image":""
+        "image":"https://cdn.getyourguide.com/img/location_img-173-2017400448-148.jpg"
     },
     {
         "name":"Delhi",
         "url":"https://www.klook.com/en-US/city/145-delhi-things-to-do/",
-        "image":""
+        "image":"https://cdn.britannica.com/37/189837-050-F0AF383E/New-Delhi-India-War-Memorial-arch-Sir.jpg"
     },
     {
         "name":"Goa",
         "url":"https://www.klook.com/en-US/city/178-Goa-things-to-do/",
-        "image":""
+        "image":"https://blog.thomascook.in/wp-content/uploads/2017/11/Untitled-design-067-1.png"
     },
     {
         "name":"Bangkok",
         "url":"https://www.klook.com/en-US/city/4-bangkok-things-to-do/",
-        "image":""
+        "image":"https://a.cdn-hotels.com/gdcs/production172/d459/3af9262b-3d8b-40c6-b61d-e37ae1aa90aa.jpg"
     },
     {
         "name":"Hong Kong",
         "url":"https://www.klook.com/en-US/city/2-hong-kong-things-to-do/",
-        "image":""
+        "image":"https://cdn.britannica.com/75/156475-050-D97BBA64/Skyline-Hong-Kong.jpg"
     },
     {
         "name":"Seoul",
         "url":"https://www.klook.com/en-US/city/13-seoul-things-to-do/",
-        "image":""
+        "image":"https://images.barrons.com/im-86071?width=620&size=1.5005861664712778"
     },
     {
         "name":"Bali",
         "url":"https://www.klook.com/en-US/city/8-bali-things-to-do/",
-        "image":""
+        "image":"https://www.holidify.com/images/bgImages/BALI.jpg"
     },
     {
         "name":"Jakarta",
         "url":"https://www.klook.com/en-US/city/45-jakarta-things-to-do/",
-        "image":""
+        "image":"https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2018/02/transportation-jakarta.jpg"
     },
     {
         "name":"Tokyo",
         "url":"https://www.klook.com/en-US/city/28-tokyo-things-to-do/",
-        "image":""
+        "image":"https://jw-webmagazine.com/wp-content/uploads/2019/06/jw-5d1448522b66d3.01045017.jpeg"
     },
     {
         "name":"Singapore",
         "url":"https://www.klook.com/en-US/city/6-singapore-things-to-do/",
-        "image":""
-    },
-    {
-        "name":"Tokyo",
-        "url":"https://www.klook.com/en-US/city/28-tokyo-things-to-do/",
-        "image":""
-    },
-    {
-        "name":"Tokyo",
-        "url":"https://www.klook.com/en-US/city/28-tokyo-things-to-do/",
-        "image":""
+        "image":"https://images.unsplash.com/photo-1565967511849-76a60a516170?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
     }
 ]}
